@@ -1,0 +1,91 @@
+.botonAgregar{
+    padding:5px;
+    border-radius:5px;
+    background-color:limegreen;
+    color:white;
+    border-style: none;
+}
+.botonAgregar:hover{
+	background-color: forestgreen;
+}
+
+.table-responsive{
+	margin-top: 20px;
+}
+.botonEditar{
+	margin: 5px;
+	height:40px;
+    width:85px;
+    background-color: gold;
+    border-radius: 5%;
+    border-style: none;
+
+}
+.botonEditar:hover{
+	background-color: goldenrod;
+}
+.botonEliminar{
+	margin: 5px;
+	height:40px;
+    width:110px;
+    background-color: red;
+    border-radius: 5%;
+    border-style: none;
+    color: white;
+}
+.botonEliminar:hover{
+	background-color: firebrick;
+}
+.btnGu{
+	margin: 10px;
+	height: 40px;
+	width: 85px;
+    border-radius:5px;
+    background-color:limegreen;
+    color:white;
+    border-style: none;
+}
+.btnGu:hover{
+	background-color: forestgreen;
+}
+.btnVer{
+	margin: 10px;
+	height: 40px;
+	width: 85px;
+    border-radius:5px;
+    background-color: gold;
+    border-style: none;
+}
+.btnVer:hover{
+	background-color: goldenrod;
+}
+.form-control{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.h2{
+	margin: 10px;
+	font-size: 300%;
+}
+.botonQui{
+	margin: 5px;
+	height:40px;
+    width:40px;
+    background-color: red;
+    border-radius: 5%;
+    border-style: none;
+}
+.btn{
+	height: 40px;
+	width: 120px;
+}
+.btn-danger{
+	height: 40px;
+	width: 180px;
+}
+.formulario i{
+	visibility: hidden;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
